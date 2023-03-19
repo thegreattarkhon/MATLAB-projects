@@ -3,8 +3,8 @@ MATLAB projects HERE./MATLAB projeleri bulunmaktadır. Seç, beğen, al.
 
 Matlab projelerinin içeriğini numaralandırılmış haliyle açıklıyorum 
 
-a1,a2,a3 - deneme kodları \n
-a4 - 2 sayının ortalamasını alma \n 
+a1,a2,a3 - deneme kodları 
+a4 - 2 sayının ortalamasını alma  
 a5 - denklemin köklerinin deltasını bulma
 a6 - for ile herhangi metni n defa yazdırma
 a7 - for ile aritmetik toplama 
